@@ -1,19 +1,19 @@
 .container {
-    max-width: 500px;
-    margin: 20px auto;
-    text-align: left;
+  max-width: 500px;
+  margin: 20px auto;
+  text-align: left;
 }
 
 h1 {
-    color: #e84118;
-    font-size: 70px;
+  color: #dd441e;
+  font-size: 70px;
 }
 
 h2 {
-    font-size: 26px;
-    font-weight: normal;
+  font-size: 26px;
+  font-weight: normal;
 }
 
 p {
-    font-size: 28px;
+  font-size: 28px;
 }
